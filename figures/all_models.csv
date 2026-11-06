@@ -1,0 +1,201 @@
+panel,model,release,condition,n,value,ci_low,ci_high,unit
+"FK error, real Panda with its table",openai/gpt-4o-2024-11-20,2024-11-20,Reasoning off,30,49.38,40.22,61.31,cm
+"FK error, real Panda with its table",openai/gpt-4.1,2025-04-14,Reasoning off,30,32.63,28.4,36.56,cm
+"FK error, real Panda with its table",openai/gpt-5,2025-08-07,Reasoning off,30,35.95,29.35,46.34,cm
+"FK error, real Panda with its table",openai/gpt-5.1,2025-11-13,Reasoning off,30,35.8,27.24,43.56,cm
+"FK error, real Panda with its table",openai/gpt-5.2,2025-12-10,Reasoning off,30,29.12,21.44,38.27,cm
+"FK error, real Panda with its table",openai/gpt-5.4,2026-03-05,Reasoning off,30,29.0,23.95,37.04,cm
+"FK error, real Panda with its table",openai/gpt-5.5,2026-04-24,Reasoning off,30,29.38,24.93,33.77,cm
+"FK error, real Panda with its table",openai/gpt-5.6-sol,2026-07-09,Reasoning off,30,28.66,23.72,33.37,cm
+"FK error, real Panda with its table",openai/gpt-6-astra,2026-09-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,10.06,7.57,13.36,cm
+"FK error, real Panda with its table",openai/gpt-6-sol,2026-09-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.09,22.9,30.72,cm
+"FK error, real Panda with its table",openai/gpt-6.1-sol,2026-09-29,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,13.55,9.09,15.61,cm
+"FK error, real Panda with its table",anthropic/claude-sonnet-4.5,2025-09-29,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.67,20.74,30.67,cm
+"FK error, real Panda with its table",anthropic/claude-opus-4.5,2025-11-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.34,18.93,29.37,cm
+"FK error, real Panda with its table",anthropic/claude-opus-4.6,2026-02-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,21.0,16.39,25.76,cm
+"FK error, real Panda with its table",anthropic/claude-opus-4.7,2026-04-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.42,18.73,26.35,cm
+"FK error, real Panda with its table",anthropic/claude-opus-4.8,2026-05-27,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.61,20.86,33.22,cm
+"FK error, real Panda with its table",anthropic/claude-opus-5,2026-07-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.2,18.73,25.99,cm
+"FK error, real Panda with its table",anthropic/claude-fable-5.1,2026-09-01,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.76,17.88,24.8,cm
+"FK error, real Panda with its table",anthropic/claude-opus-5.5,2026-09-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,21.43,16.4,27.12,cm
+"FK error, real Panda with its table",google/gemini-2.5-flash,2025-06-17,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,52.21,43.37,57.52,cm
+"FK error, real Panda with its table",google/gemini-3-flash-preview,2025-12-17,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.84,17.72,26.27,cm
+"FK error, real Panda with its table",google/gemini-3.1-pro-preview,2026-02-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.76,15.49,28.07,cm
+"FK error, real Panda with its table",google/gemini-3.1-flash-lite,2026-05-07,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.55,26.84,36.76,cm
+"FK error, real Panda with its table",google/gemini-3.5-flash,2026-05-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.3,17.32,29.42,cm
+"FK error, real Panda with its table",google/gemini-3.6-flash,2026-07-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.52,16.24,28.81,cm
+"FK error, real Panda with its table",google/gemini-3.7-flash,2026-08-13,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.18,18.5,26.67,cm
+"FK error, real Panda with its table",google/gemini-3.8-flash,2026-09-02,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,20.89,17.51,24.83,cm
+"FK error, real Panda with its table",google/gemini-4-argon,2026-10-13,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,15.22,12.11,20.51,cm
+"FK error, real Panda with its table",deepseek/deepseek-chat,2024-12-26,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,38.46,30.3,47.64,cm
+"FK error, real Panda with its table",deepseek/deepseek-chat-v3.1,2025-08-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,39.67,32.64,52.64,cm
+"FK error, real Panda with its table",deepseek/deepseek-v3.2,2025-12-01,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,65.92,49.11,87.97,cm
+"FK error, real Panda with its table",deepseek/deepseek-v4-pro,2026-04-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,38.5,30.99,45.62,cm
+"FK error, real Panda with its table",deepseek/deepseek-v4.1-flash,2026-09-10,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,53.44,41.96,62.22,cm
+"FK error, real Panda with its table",qwen/qwen-2.5-72b-instruct,2024-09-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,92.54,59.54,120.06,cm
+"FK error, real Panda with its table",qwen/qwen3-235b-a22b-2507,2025-07-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,39.8,33.18,42.97,cm
+"FK error, real Panda with its table",qwen/qwen3.5-397b-a17b,2026-02-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,46.75,38.78,49.67,cm
+"FK error, real Panda with its table",qwen/qwen3.7-max,2026-05-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,35.88,29.6,41.22,cm
+"FK error, real Panda with its table",qwen/qwen3.8-flash,2026-08-26,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.6,60.24,83.09,cm
+"FK error, real Panda with its table",moonshotai/kimi-k2,2025-07-11,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,39.61,35.47,48.52,cm
+"FK error, real Panda with its table",moonshotai/kimi-k2.5,2026-01-27,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,38.76,30.77,44.11,cm
+"FK error, real Panda with its table",moonshotai/kimi-k3,2026-07-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,29.14,24.11,32.7,cm
+"FK error, real Panda with its table",moonshotai/kimi-k3.1-pro,2026-10-23,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,32.92,28.25,38.34,cm
+"FK error, real Panda with its table",z-ai/glm-4.5,2025-07-25,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.59,49.01,79.66,cm
+"FK error, real Panda with its table",z-ai/glm-4.7,2025-12-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,68.32,47.21,91.99,cm
+"FK error, real Panda with its table",z-ai/glm-5.1,2026-04-07,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,39.35,32.22,43.48,cm
+"FK error, real Panda with its table",z-ai/glm-5.2,2026-06-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,37.0,29.03,42.69,cm
+"FK error, real Panda with its table",minimax/minimax-m3,2026-05-31,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,37.42,30.42,40.37,cm
+"FK error, real Panda with its table",bytedance-seed/seed-2-1-turbo,2026-08-12,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,29.81,25.69,38.1,cm
+"FK error, real Panda with its table",xiaomi/mimo-v2.6-pro,2026-09-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,34.44,26.37,40.43,cm
+"FK error, real Panda with its table",tencent/hy4,2026-11-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,37.55,30.84,46.35,cm
+"Multiple choice correct, real Panda",openai/gpt-4o-2024-11-20,2024-11-20,Reasoning off,30,20.0,6.67,33.33,%
+"Multiple choice correct, real Panda",openai/gpt-4.1,2025-04-14,Reasoning off,30,36.67,20.0,53.33,%
+"Multiple choice correct, real Panda",openai/gpt-5,2025-08-07,Reasoning off,30,56.67,36.67,73.33,%
+"Multiple choice correct, real Panda",openai/gpt-5.1,2025-11-13,Reasoning off,30,56.67,40.0,73.33,%
+"Multiple choice correct, real Panda",openai/gpt-5.2,2025-12-10,Reasoning off,30,50.0,33.33,66.67,%
+"Multiple choice correct, real Panda",openai/gpt-5.4,2026-03-05,Reasoning off,30,56.67,39.92,73.33,%
+"Multiple choice correct, real Panda",openai/gpt-5.5,2026-04-24,Reasoning off,30,53.33,33.33,70.0,%
+"Multiple choice correct, real Panda",openai/gpt-5.6-sol,2026-07-09,Reasoning off,30,60.0,40.0,76.67,%
+"Multiple choice correct, real Panda",openai/gpt-6-astra,2026-09-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,96.67,90.0,100.0,%
+"Multiple choice correct, real Panda",openai/gpt-6-sol,2026-09-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,60.0,43.33,76.67,%
+"Multiple choice correct, real Panda",openai/gpt-6.1-sol,2026-09-29,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,93.33,83.33,100.0,%
+"Multiple choice correct, real Panda",anthropic/claude-sonnet-4.5,2025-09-29,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,60.0,43.33,76.67,%
+"Multiple choice correct, real Panda",anthropic/claude-opus-4.5,2025-11-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,73.33,56.67,86.67,%
+"Multiple choice correct, real Panda",anthropic/claude-opus-4.6,2026-02-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,73.33,56.67,86.67,%
+"Multiple choice correct, real Panda",anthropic/claude-opus-4.7,2026-04-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,70.0,53.33,86.67,%
+"Multiple choice correct, real Panda",anthropic/claude-opus-4.8,2026-05-27,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,76.67,60.0,90.0,%
+"Multiple choice correct, real Panda",anthropic/claude-opus-5,2026-07-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,76.67,60.0,90.0,%
+"Multiple choice correct, real Panda",anthropic/claude-fable-5.1,2026-09-01,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,83.33,66.67,96.67,%
+"Multiple choice correct, real Panda",anthropic/claude-opus-5.5,2026-09-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,80.0,66.67,93.33,%
+"Multiple choice correct, real Panda",google/gemini-2.5-flash,2025-06-17,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,33.33,16.67,50.0,%
+"Multiple choice correct, real Panda",google/gemini-3-flash-preview,2025-12-17,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.67,50.0,83.33,%
+"Multiple choice correct, real Panda",google/gemini-3.1-pro-preview,2026-02-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,73.33,56.67,90.0,%
+"Multiple choice correct, real Panda",google/gemini-3.1-flash-lite,2026-05-07,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,56.67,40.0,73.33,%
+"Multiple choice correct, real Panda",google/gemini-3.5-flash,2026-05-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,63.33,46.67,80.0,%
+"Multiple choice correct, real Panda",google/gemini-3.6-flash,2026-07-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.67,50.0,83.33,%
+"Multiple choice correct, real Panda",google/gemini-3.7-flash,2026-08-13,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.67,50.0,83.33,%
+"Multiple choice correct, real Panda",google/gemini-3.8-flash,2026-09-02,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.67,50.0,83.33,%
+"Multiple choice correct, real Panda",google/gemini-4-argon,2026-10-13,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,86.67,73.33,96.67,%
+"Multiple choice correct, real Panda",deepseek/deepseek-chat,2024-12-26,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,50.0,33.33,66.67,%
+"Multiple choice correct, real Panda",deepseek/deepseek-chat-v3.1,2025-08-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,43.33,26.67,60.0,%
+"Multiple choice correct, real Panda",deepseek/deepseek-v3.2,2025-12-01,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,33.33,16.67,50.0,%
+"Multiple choice correct, real Panda",deepseek/deepseek-v4-pro,2026-04-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,43.33,26.67,60.0,%
+"Multiple choice correct, real Panda",deepseek/deepseek-v4.1-flash,2026-09-10,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,43.33,26.67,60.0,%
+"Multiple choice correct, real Panda",qwen/qwen-2.5-72b-instruct,2024-09-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.0,13.33,46.67,%
+"Multiple choice correct, real Panda",qwen/qwen3-235b-a22b-2507,2025-07-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.0,13.33,46.67,%
+"Multiple choice correct, real Panda",qwen/qwen3.5-397b-a17b,2026-02-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,53.33,36.67,70.0,%
+"Multiple choice correct, real Panda",qwen/qwen3.7-max,2026-05-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,60.0,43.33,76.67,%
+"Multiple choice correct, real Panda",qwen/qwen3.8-flash,2026-08-26,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,40.0,23.33,56.67,%
+"Multiple choice correct, real Panda",moonshotai/kimi-k2,2025-07-11,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,53.33,36.67,73.33,%
+"Multiple choice correct, real Panda",moonshotai/kimi-k2.5,2026-01-27,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.67,10.0,43.33,%
+"Multiple choice correct, real Panda",moonshotai/kimi-k3,2026-07-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,43.33,26.67,60.0,%
+"Multiple choice correct, real Panda",moonshotai/kimi-k3.1-pro,2026-10-23,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,56.67,40.0,73.33,%
+"Multiple choice correct, real Panda",z-ai/glm-4.5,2025-07-25,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,43.33,26.67,60.0,%
+"Multiple choice correct, real Panda",z-ai/glm-4.7,2025-12-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,36.67,20.0,53.33,%
+"Multiple choice correct, real Panda",z-ai/glm-5.1,2026-04-07,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.67,13.33,43.33,%
+"Multiple choice correct, real Panda",z-ai/glm-5.2,2026-06-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,43.33,26.67,60.0,%
+"Multiple choice correct, real Panda",minimax/minimax-m3,2026-05-31,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,46.67,30.0,63.33,%
+"Multiple choice correct, real Panda",bytedance-seed/seed-2-1-turbo,2026-08-12,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,60.0,43.33,76.67,%
+"Multiple choice correct, real Panda",xiaomi/mimo-v2.6-pro,2026-09-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,36.67,20.0,53.33,%
+"Multiple choice correct, real Panda",tencent/hy4,2026-11-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,63.33,46.58,80.0,%
+"IK error, real Panda with its table",openai/gpt-4o-2024-11-20,2024-11-20,Reasoning off,30,98.27,80.05,103.04,cm
+"IK error, real Panda with its table",openai/gpt-4.1,2025-04-14,Reasoning off,30,70.38,49.9,75.19,cm
+"IK error, real Panda with its table",openai/gpt-5,2025-08-07,Reasoning off,30,79.79,65.59,86.18,cm
+"IK error, real Panda with its table",openai/gpt-5.1,2025-11-13,Reasoning off,30,69.64,55.23,73.77,cm
+"IK error, real Panda with its table",openai/gpt-5.2,2025-12-10,Reasoning off,30,26.36,21.43,34.06,cm
+"IK error, real Panda with its table",openai/gpt-5.4,2026-03-05,Reasoning off,30,29.45,24.33,37.62,cm
+"IK error, real Panda with its table",openai/gpt-5.5,2026-04-24,Reasoning off,30,15.66,12.61,22.39,cm
+"IK error, real Panda with its table",openai/gpt-5.6-sol,2026-07-09,Reasoning off,30,15.69,11.12,17.46,cm
+"IK error, real Panda with its table",openai/gpt-6-astra,2026-09-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,8.63,7.41,10.94,cm
+"IK error, real Panda with its table",openai/gpt-6-sol,2026-09-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.16,17.84,36.98,cm
+"IK error, real Panda with its table",openai/gpt-6.1-sol,2026-09-29,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,10.16,7.67,12.42,cm
+"IK error, real Panda with its table",anthropic/claude-sonnet-4.5,2025-09-29,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,31.65,27.59,40.93,cm
+"IK error, real Panda with its table",anthropic/claude-opus-4.5,2025-11-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,20.0,16.88,21.96,cm
+"IK error, real Panda with its table",anthropic/claude-opus-4.6,2026-02-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,20.04,16.74,23.95,cm
+"IK error, real Panda with its table",anthropic/claude-opus-4.7,2026-04-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,28.03,24.15,31.21,cm
+"IK error, real Panda with its table",anthropic/claude-opus-4.8,2026-05-27,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,18.67,16.19,22.3,cm
+"IK error, real Panda with its table",anthropic/claude-opus-5,2026-07-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,21.76,19.78,25.02,cm
+"IK error, real Panda with its table",anthropic/claude-fable-5.1,2026-09-01,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.86,15.28,28.35,cm
+"IK error, real Panda with its table",anthropic/claude-opus-5.5,2026-09-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,15.88,13.21,20.07,cm
+"IK error, real Panda with its table",google/gemini-2.5-flash,2025-06-17,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,37.13,33.17,40.63,cm
+"IK error, real Panda with its table",google/gemini-3-flash-preview,2025-12-17,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.3,23.02,36.88,cm
+"IK error, real Panda with its table",google/gemini-3.1-pro-preview,2026-02-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.28,15.24,22.6,cm
+"IK error, real Panda with its table",google/gemini-3.1-flash-lite,2026-05-07,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,18.38,14.21,23.59,cm
+"IK error, real Panda with its table",google/gemini-3.5-flash,2026-05-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.56,16.13,24.6,cm
+"IK error, real Panda with its table",google/gemini-3.6-flash,2026-07-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.33,17.86,23.93,cm
+"IK error, real Panda with its table",google/gemini-3.7-flash,2026-08-13,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,17.01,13.97,20.97,cm
+"IK error, real Panda with its table",google/gemini-3.8-flash,2026-09-02,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,15.04,13.65,19.14,cm
+"IK error, real Panda with its table",google/gemini-4-argon,2026-10-13,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,9.09,8.12,10.94,cm
+"IK error, real Panda with its table",deepseek/deepseek-chat,2024-12-26,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,75.87,61.65,85.2,cm
+"IK error, real Panda with its table",deepseek/deepseek-chat-v3.1,2025-08-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,88.13,73.42,103.19,cm
+"IK error, real Panda with its table",deepseek/deepseek-v3.2,2025-12-01,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,55.05,33.76,73.79,cm
+"IK error, real Panda with its table",deepseek/deepseek-v4-pro,2026-04-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,50.42,41.54,59.23,cm
+"IK error, real Panda with its table",deepseek/deepseek-v4.1-flash,2026-09-10,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.88,21.47,30.16,cm
+"IK error, real Panda with its table",qwen/qwen-2.5-72b-instruct,2024-09-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,85.83,55.91,100.8,cm
+"IK error, real Panda with its table",qwen/qwen3-235b-a22b-2507,2025-07-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,98.28,87.35,104.75,cm
+"IK error, real Panda with its table",qwen/qwen3.5-397b-a17b,2026-02-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,44.81,37.74,62.34,cm
+"IK error, real Panda with its table",qwen/qwen3.7-max,2026-05-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,18.63,15.15,23.29,cm
+"IK error, real Panda with its table",qwen/qwen3.8-flash,2026-08-26,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,68.56,55.85,79.44,cm
+"IK error, real Panda with its table",moonshotai/kimi-k2,2025-07-11,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,41.99,33.87,65.98,cm
+"IK error, real Panda with its table",moonshotai/kimi-k2.5,2026-01-27,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,49.06,29.35,58.18,cm
+"IK error, real Panda with its table",moonshotai/kimi-k3,2026-07-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.79,22.63,28.88,cm
+"IK error, real Panda with its table",moonshotai/kimi-k3.1-pro,2026-10-23,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,17.81,11.87,21.68,cm
+"IK error, real Panda with its table",z-ai/glm-4.5,2025-07-25,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,34.94,28.14,54.84,cm
+"IK error, real Panda with its table",z-ai/glm-4.7,2025-12-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",29,48.36,39.5,64.36,cm
+"IK error, real Panda with its table",z-ai/glm-5.1,2026-04-07,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,29.74,24.11,34.89,cm
+"IK error, real Panda with its table",z-ai/glm-5.2,2026-06-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.44,23.52,35.73,cm
+"IK error, real Panda with its table",minimax/minimax-m3,2026-05-31,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,64.21,42.53,83.03,cm
+"IK error, real Panda with its table",bytedance-seed/seed-2-1-turbo,2026-08-12,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.93,20.06,26.33,cm
+"IK error, real Panda with its table",xiaomi/mimo-v2.6-pro,2026-09-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.1,18.85,28.4,cm
+"IK error, real Panda with its table",tencent/hy4,2026-11-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.74,19.65,27.23,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-4o-2024-11-20,2024-11-20,Reasoning off,30,54.53,43.42,67.97,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-4.1,2025-04-14,Reasoning off,30,41.04,26.61,46.7,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-5,2025-08-07,Reasoning off,30,36.63,28.35,42.97,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-5.1,2025-11-13,Reasoning off,30,36.82,30.79,44.64,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-5.2,2025-12-10,Reasoning off,30,47.74,35.3,52.61,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-5.4,2026-03-05,Reasoning off,30,51.93,41.98,60.78,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-5.5,2026-04-24,Reasoning off,30,30.64,27.28,39.23,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-5.6-sol,2026-07-09,Reasoning off,30,29.0,23.91,34.66,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-6-astra,2026-09-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,10.57,7.86,12.68,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-6-sol,2026-09-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,29.49,26.12,36.32,cm
+Twisted arm: distance from the Panda's answer,openai/gpt-6.1-sol,2026-09-29,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,16.24,10.6,20.11,cm
+Twisted arm: distance from the Panda's answer,anthropic/claude-sonnet-4.5,2025-09-29,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.21,16.92,35.44,cm
+Twisted arm: distance from the Panda's answer,anthropic/claude-opus-4.5,2025-11-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.18,16.67,25.33,cm
+Twisted arm: distance from the Panda's answer,anthropic/claude-opus-4.6,2026-02-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.21,21.03,30.85,cm
+Twisted arm: distance from the Panda's answer,anthropic/claude-opus-4.7,2026-04-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,25.43,18.08,27.01,cm
+Twisted arm: distance from the Panda's answer,anthropic/claude-opus-4.8,2026-05-27,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.6,19.46,34.91,cm
+Twisted arm: distance from the Panda's answer,anthropic/claude-opus-5,2026-07-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,25.04,21.57,29.92,cm
+Twisted arm: distance from the Panda's answer,anthropic/claude-fable-5.1,2026-09-01,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.69,19.17,25.57,cm
+Twisted arm: distance from the Panda's answer,anthropic/claude-opus-5.5,2026-09-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.66,17.67,24.09,cm
+Twisted arm: distance from the Panda's answer,google/gemini-2.5-flash,2025-06-17,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,60.88,47.67,65.83,cm
+Twisted arm: distance from the Panda's answer,google/gemini-3-flash-preview,2025-12-17,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.9,19.31,30.74,cm
+Twisted arm: distance from the Panda's answer,google/gemini-3.1-pro-preview,2026-02-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.21,20.68,30.35,cm
+Twisted arm: distance from the Panda's answer,google/gemini-3.1-flash-lite,2026-05-07,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,46.18,34.7,52.24,cm
+Twisted arm: distance from the Panda's answer,google/gemini-3.5-flash,2026-05-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.32,21.67,35.95,cm
+Twisted arm: distance from the Panda's answer,google/gemini-3.6-flash,2026-07-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.12,24.76,41.66,cm
+Twisted arm: distance from the Panda's answer,google/gemini-3.7-flash,2026-08-13,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.66,23.01,30.79,cm
+Twisted arm: distance from the Panda's answer,google/gemini-3.8-flash,2026-09-02,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.78,22.9,31.01,cm
+Twisted arm: distance from the Panda's answer,google/gemini-4-argon,2026-10-13,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,16.98,13.29,21.67,cm
+Twisted arm: distance from the Panda's answer,deepseek/deepseek-chat,2024-12-26,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,70.98,60.98,84.37,cm
+Twisted arm: distance from the Panda's answer,deepseek/deepseek-chat-v3.1,2025-08-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,61.18,44.87,71.24,cm
+Twisted arm: distance from the Panda's answer,deepseek/deepseek-v3.2,2025-12-01,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,61.49,51.68,70.76,cm
+Twisted arm: distance from the Panda's answer,deepseek/deepseek-v4-pro,2026-04-24,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,43.89,40.26,55.0,cm
+Twisted arm: distance from the Panda's answer,deepseek/deepseek-v4.1-flash,2026-09-10,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,72.18,59.96,80.88,cm
+Twisted arm: distance from the Panda's answer,qwen/qwen-2.5-72b-instruct,2024-09-19,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,62.07,50.25,105.58,cm
+Twisted arm: distance from the Panda's answer,qwen/qwen3-235b-a22b-2507,2025-07-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,41.16,31.82,46.51,cm
+Twisted arm: distance from the Panda's answer,qwen/qwen3.5-397b-a17b,2026-02-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,56.82,45.44,74.13,cm
+Twisted arm: distance from the Panda's answer,qwen/qwen3.7-max,2026-05-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,29.07,25.18,40.5,cm
+Twisted arm: distance from the Panda's answer,qwen/qwen3.8-flash,2026-08-26,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,64.07,56.09,92.09,cm
+Twisted arm: distance from the Panda's answer,moonshotai/kimi-k2,2025-07-11,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,41.42,32.19,48.43,cm
+Twisted arm: distance from the Panda's answer,moonshotai/kimi-k2.5,2026-01-27,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,42.02,32.21,46.49,cm
+Twisted arm: distance from the Panda's answer,moonshotai/kimi-k3,2026-07-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,32.77,29.65,36.34,cm
+Twisted arm: distance from the Panda's answer,moonshotai/kimi-k3.1-pro,2026-10-23,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,32.4,25.39,41.51,cm
+Twisted arm: distance from the Panda's answer,z-ai/glm-4.5,2025-07-25,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,51.89,35.28,69.14,cm
+Twisted arm: distance from the Panda's answer,z-ai/glm-4.7,2025-12-22,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,65.54,32.49,71.54,cm
+Twisted arm: distance from the Panda's answer,z-ai/glm-5.1,2026-04-07,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,42.05,32.48,49.0,cm
+Twisted arm: distance from the Panda's answer,z-ai/glm-5.2,2026-06-16,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,45.11,36.51,50.35,cm
+Twisted arm: distance from the Panda's answer,minimax/minimax-m3,2026-05-31,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,46.62,39.45,58.28,cm
+Twisted arm: distance from the Panda's answer,bytedance-seed/seed-2-1-turbo,2026-08-12,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,28.72,25.8,31.97,cm
+Twisted arm: distance from the Panda's answer,xiaomi/mimo-v2.6-pro,2026-09-21,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,55.76,37.74,71.2,cm
+Twisted arm: distance from the Panda's answer,tencent/hy4,2026-11-04,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,41.57,34.99,48.72,cm

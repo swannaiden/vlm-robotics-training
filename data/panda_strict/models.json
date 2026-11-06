@@ -1,0 +1,186 @@
+{
+ "anthropic/claude-fable-5.1": {
+  "created": 1788285838,
+  "name": "Anthropic: Claude Fable 5.1"
+ },
+ "anthropic/claude-opus-4.5": {
+  "created": 1764010580,
+  "name": "Anthropic: Claude Opus 4.5"
+ },
+ "anthropic/claude-opus-4.6": {
+  "created": 1770219050,
+  "name": "Anthropic: Claude Opus 4.6"
+ },
+ "anthropic/claude-opus-4.7": {
+  "created": 1776351100,
+  "name": "Anthropic: Claude Opus 4.7"
+ },
+ "anthropic/claude-opus-4.8": {
+  "created": 1779905091,
+  "name": "Anthropic: Claude Opus 4.8"
+ },
+ "anthropic/claude-opus-5": {
+  "created": 1784912544,
+  "name": "Anthropic: Claude Opus 5"
+ },
+ "anthropic/claude-opus-5.5": {
+  "created": 1790094732,
+  "name": "Anthropic: Claude Opus 5.5"
+ },
+ "anthropic/claude-sonnet-4.5": {
+  "created": 1759161676,
+  "name": "Anthropic: Claude Sonnet 4.5"
+ },
+ "bytedance-seed/seed-2-1-turbo": {
+  "created": 1786552176,
+  "name": "ByteDance Seed: Seed 2.1 Turbo"
+ },
+ "deepseek/deepseek-chat": {
+  "created": 1735241320,
+  "name": "DeepSeek: DeepSeek V3"
+ },
+ "deepseek/deepseek-chat-v3.1": {
+  "created": 1755779628,
+  "name": "DeepSeek: DeepSeek V3.1"
+ },
+ "deepseek/deepseek-v3.2": {
+  "created": 1764594642,
+  "name": "DeepSeek: DeepSeek V3.2"
+ },
+ "deepseek/deepseek-v4-pro": {
+  "created": 1777000679,
+  "name": "DeepSeek: DeepSeek V4 Pro 0423"
+ },
+ "deepseek/deepseek-v4-pro-0813": {
+  "created": 1786549364,
+  "name": "DeepSeek: DeepSeek V4 Pro 0813"
+ },
+ "deepseek/deepseek-v4.1-flash": {
+  "created": 1789021285,
+  "name": "DeepSeek: DeepSeek V4.1 Flash"
+ },
+ "google/gemini-2.5-flash": {
+  "created": 1750172488,
+  "name": "Google: Gemini 2.5 Flash"
+ },
+ "google/gemini-3-flash-preview": {
+  "created": 1765987078,
+  "name": "Google: Gemini 3 Flash Preview"
+ },
+ "google/gemini-3.1-flash-lite": {
+  "created": 1778168828,
+  "name": "Google: Gemini 3.1 Flash Lite"
+ },
+ "google/gemini-3.1-pro-preview": {
+  "created": 1771509627,
+  "name": "Google: Gemini 3.1 Pro Preview"
+ },
+ "google/gemini-3.5-flash": {
+  "created": 1779193800,
+  "name": "Google: Gemini 3.5 Flash"
+ },
+ "google/gemini-3.6-flash": {
+  "created": 1784646733,
+  "name": "Google: Gemini 3.6 Flash"
+ },
+ "google/gemini-3.7-flash": {
+  "created": 1786640581,
+  "name": "Google: Gemini 3.7 Flash"
+ },
+ "google/gemini-3.8-flash": {
+  "created": 1788362056,
+  "name": "Google: Gemini 3.8 Flash"
+ },
+ "google/gemini-4-argon": {
+  "created": 1791907477,
+  "name": "Google: Gemini 4 Argon"
+ },
+ "minimax/minimax-m3": {
+  "created": 1780245374,
+  "name": "MiniMax: MiniMax M3"
+ },
+ "moonshotai/kimi-k2": {
+  "created": 1752263252,
+  "name": "MoonshotAI: Kimi K2 0711"
+ },
+ "moonshotai/kimi-k2.5": {
+  "created": 1769487076,
+  "name": "MoonshotAI: Kimi K2.5"
+ },
+ "moonshotai/kimi-k3": {
+  "created": 1784215858,
+  "name": "MoonshotAI: Kimi K3"
+ },
+ "moonshotai/kimi-k3.1-pro": {
+  "created": 1792778188,
+  "name": "MoonshotAI: Kimi K3.1 Pro"
+ },
+ "openai/gpt-6-astra": {
+  "created": 1788552838,
+  "name": "OpenAI: GPT-6 Astra"
+ },
+ "openai/gpt-6-sol": {
+  "created": 1790100775,
+  "name": "OpenAI: GPT-6 Sol"
+ },
+ "openai/gpt-6.1-sol": {
+  "created": 1790702882,
+  "name": "OpenAI: GPT-6.1 Sol"
+ },
+ "qwen/qwen-2.5-72b-instruct": {
+  "created": 1726704000,
+  "name": "Qwen2.5 72B Instruct"
+ },
+ "qwen/qwen3-235b-a22b-2507": {
+  "created": 1753119555,
+  "name": "Qwen: Qwen3 235B A22B Instruct 2507"
+ },
+ "qwen/qwen3.5-397b-a17b": {
+  "created": 1771223018,
+  "name": "Qwen: Qwen3.5 397B A17B"
+ },
+ "qwen/qwen3.7-max": {
+  "created": 1779376861,
+  "name": "Qwen: Qwen3.7 Max"
+ },
+ "qwen/qwen3.8-flash": {
+  "created": 1787773060,
+  "name": "Qwen: Qwen3.8 Flash"
+ },
+ "qwen/qwen3.8-max-0902": {
+  "created": 1788469704,
+  "name": "Qwen: Qwen3.8 Max (0902)"
+ },
+ "stepfun/step-5-preview": {
+  "created": 1791462849,
+  "name": "StepFun: Step 5 Preview"
+ },
+ "tencent/hy4": {
+  "created": 1793766031,
+  "name": "Tencent: Hy4"
+ },
+ "xiaomi/mimo-v2.6-pro": {
+  "created": 1790021259,
+  "name": "Xiaomi: MiMo-V2.6-Pro"
+ },
+ "z-ai/glm-4.5": {
+  "created": 1753471347,
+  "name": "Z.ai: GLM 4.5"
+ },
+ "z-ai/glm-4.7": {
+  "created": 1766378014,
+  "name": "Z.ai: GLM 4.7"
+ },
+ "z-ai/glm-5.1": {
+  "created": 1775578025,
+  "name": "Z.ai: GLM 5.1"
+ },
+ "z-ai/glm-5.2": {
+  "created": 1781631930,
+  "name": "Z.ai: GLM 5.2"
+ },
+ "z-ai/glm-5.3": {
+  "created": 1787086655,
+  "name": "Z.ai: GLM 5.3"
+ }
+}

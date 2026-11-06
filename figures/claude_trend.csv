@@ -1,0 +1,49 @@
+panel,model,condition,n,value,ci_low,ci_high,unit
+"FK error, real Panda with its table",claude-sonnet-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.67,20.74,30.67,cm
+"FK error, real Panda with its table",claude-opus-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.34,18.93,29.37,cm
+"FK error, real Panda with its table",claude-opus-4.6,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,21.0,16.39,25.8,cm
+"FK error, real Panda with its table",claude-opus-4.7,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.42,18.94,26.35,cm
+"FK error, real Panda with its table",claude-opus-4.8,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.61,20.85,33.22,cm
+"FK error, real Panda with its table",claude-opus-5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.2,18.73,25.99,cm
+"FK error, real Panda with its table",claude-fable-5.1,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.76,17.89,24.71,cm
+"FK error, real Panda with its table",claude-opus-5.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,21.43,16.4,27.12,cm
+"Multiple choice correct, real Panda",claude-sonnet-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,60.0,43.33,76.67,%
+"Multiple choice correct, real Panda",claude-opus-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,73.33,56.67,90.0,%
+"Multiple choice correct, real Panda",claude-opus-4.6,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,73.33,56.67,90.0,%
+"Multiple choice correct, real Panda",claude-opus-4.7,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,70.0,53.33,86.67,%
+"Multiple choice correct, real Panda",claude-opus-4.8,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,76.67,60.0,90.0,%
+"Multiple choice correct, real Panda",claude-opus-5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,76.67,60.0,90.0,%
+"Multiple choice correct, real Panda",claude-fable-5.1,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,83.33,70.0,96.67,%
+"Multiple choice correct, real Panda",claude-opus-5.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,80.0,66.67,93.33,%
+"IK error, real Panda with its table",claude-sonnet-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,31.65,27.59,40.93,cm
+"IK error, real Panda with its table",claude-opus-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,20.0,16.88,21.96,cm
+"IK error, real Panda with its table",claude-opus-4.6,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,20.04,16.74,23.88,cm
+"IK error, real Panda with its table",claude-opus-4.7,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,28.03,23.81,31.37,cm
+"IK error, real Panda with its table",claude-opus-4.8,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,18.67,15.96,22.3,cm
+"IK error, real Panda with its table",claude-opus-5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,21.76,19.84,24.53,cm
+"IK error, real Panda with its table",claude-fable-5.1,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.86,15.28,28.35,cm
+"IK error, real Panda with its table",claude-opus-5.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,15.88,13.21,20.07,cm
+Twisted arm: distance from the Panda's answer,claude-sonnet-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.21,16.86,34.66,cm
+Twisted arm: distance from the Panda's answer,claude-opus-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.18,16.56,25.33,cm
+Twisted arm: distance from the Panda's answer,claude-opus-4.6,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.21,21.03,30.85,cm
+Twisted arm: distance from the Panda's answer,claude-opus-4.7,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,25.43,18.08,27.01,cm
+Twisted arm: distance from the Panda's answer,claude-opus-4.8,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.6,19.46,34.91,cm
+Twisted arm: distance from the Panda's answer,claude-opus-5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,25.04,21.57,28.88,cm
+Twisted arm: distance from the Panda's answer,claude-fable-5.1,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.69,19.17,25.57,cm
+Twisted arm: distance from the Panda's answer,claude-opus-5.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.66,17.67,24.44,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,claude-sonnet-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,34.17,28.68,42.84,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,claude-opus-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,67.89,60.12,78.1,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,claude-opus-4.6,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,39.11,34.65,43.64,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,claude-opus-4.7,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.82,20.79,34.16,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,claude-opus-4.8,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,40.11,32.81,45.3,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,claude-opus-5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.45,22.37,36.17,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,claude-fable-5.1,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,25.09,23.87,29.99,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,claude-opus-5.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,25.74,21.49,34.37,cm
+Joint angles only: distance from the Panda's answer,claude-sonnet-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.16,22.16,34.48,cm
+Joint angles only: distance from the Panda's answer,claude-opus-4.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,32.88,20.27,39.76,cm
+Joint angles only: distance from the Panda's answer,claude-opus-4.6,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,34.49,26.48,38.42,cm
+Joint angles only: distance from the Panda's answer,claude-opus-4.7,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.7,20.57,31.73,cm
+Joint angles only: distance from the Panda's answer,claude-opus-4.8,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.46,25.77,38.87,cm
+Joint angles only: distance from the Panda's answer,claude-opus-5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.07,20.66,35.98,cm
+Joint angles only: distance from the Panda's answer,claude-fable-5.1,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.91,17.87,27.43,cm
+Joint angles only: distance from the Panda's answer,claude-opus-5.5,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.96,17.31,21.85,cm

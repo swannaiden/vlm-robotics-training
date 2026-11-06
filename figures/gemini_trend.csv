@@ -1,0 +1,55 @@
+panel,model,condition,n,value,ci_low,ci_high,unit
+"FK error, real Panda with its table",gemini-2.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,52.21,43.37,57.64,cm
+"FK error, real Panda with its table",gemini-3-flash-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.84,17.72,26.27,cm
+"FK error, real Panda with its table",gemini-3.1-pro-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.76,15.49,28.69,cm
+"FK error, real Panda with its table",gemini-3.1-flash-lite,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.55,26.84,36.76,cm
+"FK error, real Panda with its table",gemini-3.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.3,17.32,29.41,cm
+"FK error, real Panda with its table",gemini-3.6-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.52,16.37,29.41,cm
+"FK error, real Panda with its table",gemini-3.7-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.18,17.42,26.31,cm
+"FK error, real Panda with its table",gemini-3.8-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,20.89,17.33,24.83,cm
+"FK error, real Panda with its table",gemini-4-argon,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,15.22,12.11,20.47,cm
+"Multiple choice correct, real Panda",gemini-2.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,33.33,16.67,50.0,%
+"Multiple choice correct, real Panda",gemini-3-flash-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.67,50.0,83.33,%
+"Multiple choice correct, real Panda",gemini-3.1-pro-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,73.33,59.92,90.0,%
+"Multiple choice correct, real Panda",gemini-3.1-flash-lite,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,56.67,40.0,73.33,%
+"Multiple choice correct, real Panda",gemini-3.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,63.33,46.67,80.0,%
+"Multiple choice correct, real Panda",gemini-3.6-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.67,50.0,83.33,%
+"Multiple choice correct, real Panda",gemini-3.7-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.67,49.92,83.33,%
+"Multiple choice correct, real Panda",gemini-3.8-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,66.67,50.0,83.33,%
+"Multiple choice correct, real Panda",gemini-4-argon,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,86.67,73.33,96.67,%
+"IK error, real Panda with its table",gemini-2.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,37.13,33.13,40.63,cm
+"IK error, real Panda with its table",gemini-3-flash-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.3,23.95,38.19,cm
+"IK error, real Panda with its table",gemini-3.1-pro-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.28,15.24,22.6,cm
+"IK error, real Panda with its table",gemini-3.1-flash-lite,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,18.38,14.21,23.61,cm
+"IK error, real Panda with its table",gemini-3.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.56,16.02,24.6,cm
+"IK error, real Panda with its table",gemini-3.6-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,19.33,17.86,23.93,cm
+"IK error, real Panda with its table",gemini-3.7-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,17.01,14.0,20.97,cm
+"IK error, real Panda with its table",gemini-3.8-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,15.04,13.65,19.45,cm
+"IK error, real Panda with its table",gemini-4-argon,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,9.09,8.18,10.94,cm
+Twisted arm: distance from the Panda's answer,gemini-2.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,60.88,49.4,65.83,cm
+Twisted arm: distance from the Panda's answer,gemini-3-flash-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.9,19.42,30.74,cm
+Twisted arm: distance from the Panda's answer,gemini-3.1-pro-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.21,20.14,30.35,cm
+Twisted arm: distance from the Panda's answer,gemini-3.1-flash-lite,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,46.18,34.7,52.24,cm
+Twisted arm: distance from the Panda's answer,gemini-3.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.32,21.67,35.95,cm
+Twisted arm: distance from the Panda's answer,gemini-3.6-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,30.12,24.78,41.66,cm
+Twisted arm: distance from the Panda's answer,gemini-3.7-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.66,23.01,30.79,cm
+Twisted arm: distance from the Panda's answer,gemini-3.8-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,27.78,22.9,31.01,cm
+Twisted arm: distance from the Panda's answer,gemini-4-argon,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,16.98,13.29,21.67,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-2.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,71.25,56.63,76.85,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-3-flash-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,23.48,17.11,35.45,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-3.1-pro-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,25.38,19.88,29.23,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-3.1-flash-lite,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,81.06,73.29,96.11,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-3.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,40.48,30.59,43.2,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-3.6-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,35.83,31.29,43.14,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-3.7-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,28.42,22.81,33.36,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-3.8-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.02,23.37,36.18,cm
+Alien arm (no Panda numbers): distance from the Panda's answer,gemini-4-argon,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,15.36,11.17,19.47,cm
+Joint angles only: distance from the Panda's answer,gemini-2.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,56.53,48.92,73.32,cm
+Joint angles only: distance from the Panda's answer,gemini-3-flash-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,26.92,20.26,32.72,cm
+Joint angles only: distance from the Panda's answer,gemini-3.1-pro-preview,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,25.58,18.42,34.27,cm
+Joint angles only: distance from the Panda's answer,gemini-3.1-flash-lite,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,40.7,35.85,49.54,cm
+Joint angles only: distance from the Panda's answer,gemini-3.5-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,21.95,17.24,31.85,cm
+Joint angles only: distance from the Panda's answer,gemini-3.6-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,24.9,18.23,30.16,cm
+Joint angles only: distance from the Panda's answer,gemini-3.7-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,22.43,19.38,24.66,cm
+Joint angles only: distance from the Panda's answer,gemini-3.8-flash,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,18.7,16.13,23.74,cm
+Joint angles only: distance from the Panda's answer,gemini-4-argon,"Told ""DO NOT USE ANY REASONING"" (0 reasoning tokens)",30,12.72,10.93,15.96,cm

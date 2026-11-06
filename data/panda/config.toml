@@ -1,0 +1,50 @@
+# Panda only: every variant on 30 joint configurations recorded in DROID, no-calculation prompt.
+# Needs the DROID file:
+#   curl -L -o data/droid_1.0.1_chunk-000_file-000.parquet \
+#     https://huggingface.co/datasets/lerobot/droid_1.0.1/resolve/main/data/chunk-000/file-000.parquet
+
+[run]
+name = "panda"
+seed = 0
+items_per_robot = 30
+tasks = ["fk", "fk_mc", "ik"]
+conditions = ["spec", "name", "anon"]   # anon: joint angles only, no name or table
+instruction = "gut"
+pose_source = "droid"         # one random frame from each of 30 DROID episodes
+
+[robots]
+base = ["panda"]
+n_madeup = 2                  # link lengths scaled 0.7-1.3x
+twist_swaps = [[5, 7]]        # joints 5 and 7 exchange twist angles: forearm and wrist reversed
+alien = true                  # the same swap on made-up arm 1's lengths: no Panda numbers in the table
+droid_path = "data/droid_1.0.1_chunk-000_file-000.parquet"
+scale_range = [0.7, 1.3]
+min_scale_change = 0.1
+min_separation_m = 0.04
+angle_decimals = 3
+
+[api]
+reasoning_effort = "none"     # models with mandatory reasoning fall back to their lowest effort
+max_tokens = 4000
+max_tokens_no_reasoning = 400
+temperature = "default"       # never sent, so old and new models sample the same way
+structured_outputs = true
+require_parameters = true
+workers = 8
+timeout_s = 300
+
+[models]
+# OpenAI generations, newest 4o snapshot onward. "@none" turns reasoning off where possible; GPT-5 and
+# GPT-6.1 Sol must reason and run at their lowest effort (minimal / low).
+ids = [
+  "openai/gpt-4o-2024-11-20@none",
+  "openai/gpt-4.1@none",
+  "openai/gpt-5@none",
+  "openai/gpt-5.1@none",
+  "openai/gpt-5.2@none",
+  "openai/gpt-5.4@none",
+  "openai/gpt-5.5@none",
+  "openai/gpt-5.6-sol@none",
+  "openai/gpt-6-sol@none",
+  "openai/gpt-6.1-sol@none",
+]

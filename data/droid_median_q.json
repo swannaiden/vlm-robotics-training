@@ -1,0 +1,13 @@
+{
+ "source": "median of observation.state.joint_position over LeRobot droid_1.0.1 data/chunk-000/file-000.parquet",
+ "frames": 321344,
+ "q": [
+  0.014234,
+  0.266119,
+  -0.014122,
+  -2.114843,
+  -0.031936,
+  2.325028,
+  0.07369
+ ]
+}

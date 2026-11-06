@@ -1,0 +1,39 @@
+panel,provider,model,release,n,value,ci_low,ci_high
+"Hand position error, real Panda",OpenAI,gpt-5.4,2026-03-05,30,29.0,23.87,37.68
+"Hand position error, real Panda",OpenAI,gpt-5.5,2026-04-24,30,29.38,24.93,33.77
+"Hand position error, real Panda",OpenAI,gpt-5.6-sol,2026-07-09,30,28.66,23.72,33.35
+"Hand position error, real Panda",OpenAI,gpt-6-astra,2026-09-04,30,10.06,7.46,13.36
+"Hand position error, real Panda",OpenAI,gpt-6-sol,2026-09-22,30,27.09,22.9,30.88
+"Hand position error, real Panda",OpenAI,gpt-6.1-sol,2026-09-29,30,13.55,9.09,15.61
+"Hand position error, real Panda",Anthropic (Claude),claude-opus-4.6,2026-02-04,30,21.0,15.33,25.76
+"Hand position error, real Panda",Anthropic (Claude),claude-opus-4.7,2026-04-16,30,22.42,18.94,26.35
+"Hand position error, real Panda",Anthropic (Claude),claude-opus-4.8,2026-05-27,30,27.61,20.32,33.22
+"Hand position error, real Panda",Anthropic (Claude),claude-opus-5,2026-07-24,30,22.2,18.73,25.77
+"Hand position error, real Panda",Anthropic (Claude),claude-fable-5.1,2026-09-01,30,19.76,17.89,24.8
+"Hand position error, real Panda",Anthropic (Claude),claude-opus-5.5,2026-09-22,30,21.43,16.4,27.12
+"Hand position error, real Panda",Google (Gemini),gemini-3.1-pro-preview,2026-02-19,30,23.76,15.49,28.07
+"Hand position error, real Panda",Google (Gemini),gemini-3.1-flash-lite,2026-05-07,30,30.55,25.86,36.76
+"Hand position error, real Panda",Google (Gemini),gemini-3.5-flash,2026-05-19,30,22.3,17.31,29.41
+"Hand position error, real Panda",Google (Gemini),gemini-3.6-flash,2026-07-21,30,23.52,16.37,29.41
+"Hand position error, real Panda",Google (Gemini),gemini-3.7-flash,2026-08-13,30,23.18,17.42,26.31
+"Hand position error, real Panda",Google (Gemini),gemini-3.8-flash,2026-09-02,30,20.89,17.51,24.83
+"Hand position error, real Panda",Google (Gemini),gemini-4-argon,2026-10-13,30,15.22,12.11,20.47
+Different arm: distance from the Panda's answer,OpenAI,gpt-5.4,2026-03-05,30,51.93,42.02,60.84
+Different arm: distance from the Panda's answer,OpenAI,gpt-5.5,2026-04-24,30,30.64,27.28,39.46
+Different arm: distance from the Panda's answer,OpenAI,gpt-5.6-sol,2026-07-09,30,29.0,23.91,34.91
+Different arm: distance from the Panda's answer,OpenAI,gpt-6-astra,2026-09-04,30,10.57,8.17,13.42
+Different arm: distance from the Panda's answer,OpenAI,gpt-6-sol,2026-09-22,30,29.49,26.12,36.42
+Different arm: distance from the Panda's answer,OpenAI,gpt-6.1-sol,2026-09-29,30,16.24,10.97,20.02
+Different arm: distance from the Panda's answer,Anthropic (Claude),claude-opus-4.6,2026-02-04,30,24.21,21.03,30.85
+Different arm: distance from the Panda's answer,Anthropic (Claude),claude-opus-4.7,2026-04-16,30,25.43,17.96,27.01
+Different arm: distance from the Panda's answer,Anthropic (Claude),claude-opus-4.8,2026-05-27,30,26.6,19.46,34.91
+Different arm: distance from the Panda's answer,Anthropic (Claude),claude-opus-5,2026-07-24,30,25.04,21.4,28.9
+Different arm: distance from the Panda's answer,Anthropic (Claude),claude-fable-5.1,2026-09-01,30,22.69,19.17,25.57
+Different arm: distance from the Panda's answer,Anthropic (Claude),claude-opus-5.5,2026-09-22,30,19.66,17.67,24.09
+Different arm: distance from the Panda's answer,Google (Gemini),gemini-3.1-pro-preview,2026-02-19,30,23.21,20.68,29.79
+Different arm: distance from the Panda's answer,Google (Gemini),gemini-3.1-flash-lite,2026-05-07,30,46.18,34.7,52.24
+Different arm: distance from the Panda's answer,Google (Gemini),gemini-3.5-flash,2026-05-19,30,26.32,21.61,35.95
+Different arm: distance from the Panda's answer,Google (Gemini),gemini-3.6-flash,2026-07-21,30,30.12,24.16,42.84
+Different arm: distance from the Panda's answer,Google (Gemini),gemini-3.7-flash,2026-08-13,30,27.66,23.01,30.79
+Different arm: distance from the Panda's answer,Google (Gemini),gemini-3.8-flash,2026-09-02,30,27.78,22.32,31.01
+Different arm: distance from the Panda's answer,Google (Gemini),gemini-4-argon,2026-10-13,30,16.98,13.29,21.71

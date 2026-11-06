@@ -1,0 +1,650 @@
+{
+ "panda": {
+  "key": "panda",
+  "name": "Franka Emika Panda",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.333,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.316,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0825,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.0825,
+    "d": 0.384,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.088,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.107,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": "Use Franka's published kinematics (the modified DH parameters in the Franka documentation), with frame 0 at the robot base and the end-effector frame at the flange (no gripper attached)."
+ },
+ "panda/disguised": {
+  "key": "panda/disguised",
+  "name": "RX-576",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.333,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.316,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0825,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.0825,
+    "d": 0.384,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.088,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.107,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": ""
+ },
+ "panda/madeup1": {
+  "key": "panda/madeup1",
+  "name": "RX-902",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.4184,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.362,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0992,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.1007,
+    "d": 0.4539,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.1094,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.1288,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": ""
+ },
+ "panda/conflict1": {
+  "key": "panda/conflict1",
+  "name": "Franka Emika Panda",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.4184,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.362,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0992,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.1007,
+    "d": 0.4539,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.1094,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.1288,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": "Use Franka's published kinematics (the modified DH parameters in the Franka documentation), with frame 0 at the robot base and the end-effector frame at the flange (no gripper attached)."
+ },
+ "panda/madeup2": {
+  "key": "panda/madeup2",
+  "name": "RX-816",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.2512,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.2259,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.1014,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.0977,
+    "d": 0.4256,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.1014,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.1233,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": ""
+ },
+ "panda/conflict2": {
+  "key": "panda/conflict2",
+  "name": "Franka Emika Panda",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.2512,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.2259,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.1014,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.0977,
+    "d": 0.4256,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.1014,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.1233,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": "Use Franka's published kinematics (the modified DH parameters in the Franka documentation), with frame 0 at the robot base and the end-effector frame at the flange (no gripper attached)."
+ },
+ "panda/twisted1": {
+  "key": "panda/twisted1",
+  "name": "RX-949",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.333,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.316,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0825,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.0825,
+    "d": 0.384,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.088,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.107,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": ""
+ },
+ "panda/twisted_conflict1": {
+  "key": "panda/twisted_conflict1",
+  "name": "Franka Emika Panda",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.333,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.316,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0825,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.0825,
+    "d": 0.384,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.088,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.107,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": "Use Franka's published kinematics (the modified DH parameters in the Franka documentation), with frame 0 at the robot base and the end-effector frame at the flange (no gripper attached)."
+ },
+ "panda/alien1": {
+  "key": "panda/alien1",
+  "name": "RX-356",
+  "convention": "modified",
+  "links": [
+   {
+    "a": 0.0,
+    "d": 0.4184,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -1.7628,
+    "upper": 1.7628
+   },
+   {
+    "a": 0.0,
+    "d": 0.362,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0992,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -3.0718,
+    "upper": -0.0698
+   },
+   {
+    "a": -0.1007,
+    "d": 0.4539,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.0,
+    "alpha": 1.5707963267948966,
+    "offset": 0.0,
+    "lower": -0.0175,
+    "upper": 3.7525
+   },
+   {
+    "a": 0.1094,
+    "d": 0.0,
+    "alpha": -1.5707963267948966,
+    "offset": 0.0,
+    "lower": -2.8973,
+    "upper": 2.8973
+   },
+   {
+    "a": 0.0,
+    "d": 0.1288,
+    "alpha": 0.0,
+    "offset": 0.0,
+    "lower": null,
+    "upper": null
+   }
+  ],
+  "name_hint": ""
+ }
+}
