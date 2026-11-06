@@ -2,6 +2,8 @@
 
 Do LLMs know Franka Panda kinematics? 50 models, 30 joint configurations from DROID, no tools and no reasoning.
 
+![All 50 models: hand position error, multiple choice, inverse kinematics, and novel arm vs the Panda's answer](figures/all_models.png)
+
 - `prompts.md`: the system prompts and example prompts
 - `data/<run>/tasks.jsonl`: every prompt with its ground truth
 - `data/<run>/rollouts/`: every model answer, one file per model (files with 12 answers are short probes)
